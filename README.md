@@ -15,4 +15,6 @@
 
 ### DockerHub
 
-![](./iamges/img3.PNG)
+![](./images/img3.PNG)
+
+- DockerHub에서 repo를 확인할 수 있습니다.
